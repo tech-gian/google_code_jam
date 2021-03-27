@@ -1,0 +1,12 @@
+# Ignore all files
+*
+
+# Except
+!*/
+!*.c
+!*.cc
+!*.cpp
+!*.txt
+!.gitignore
+!README.md
+!*.pdf
